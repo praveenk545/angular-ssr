@@ -1,0 +1,10 @@
+#nav {
+  background: orange;
+  width: 20%;
+  height: 600px;
+}
+li a {
+  text-decoration: none;
+  list-style-type: none;
+  text-decoration: none;
+}
